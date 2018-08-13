@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">weekxzhomework3</string>
+    <string name="input_time">Input Time</string>
+    <string name="go">Go</string>
+    <string name="go_button">go Button</string>
+    <string name="progressing">Progressing</string>
+    <string name="message_time">Message Time</string>
+    <string name="incorrect_argument">Incorrect Argument</string>
+    <string name="wait">Please Wait </string>
+    <string name="seconds"> Seconds</string>
+</resources>
